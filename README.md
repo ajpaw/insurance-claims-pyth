@@ -21,3 +21,4 @@ This was a dataset about insurance claims filed by people. Details about claim l
 - visualizations
 - modelling and hypothesis testing (correlation, ANOVA, chi squared test, Student's t-tests)
   
+Key results and inferences in notebook alongside.
